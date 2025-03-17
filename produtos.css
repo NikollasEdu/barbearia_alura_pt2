@@ -44,3 +44,18 @@ nav a {
   border: 2px solid black;
   border-radius: 40px;
 }
+
+.produtos h2{
+  font-size: 30px;
+  font-weigth: bold;
+}
+
+.produto-descricao{
+font-size: 18px;
+}
+
+.produto-preco{
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 10px;
+}
