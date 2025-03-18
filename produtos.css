@@ -49,6 +49,8 @@ nav a:hover{
   border-radius: 40px;
 }
 
+.produtos:hover{
+  border-color: #FF000
 .produtos h2{
   font-size: 30px;
   font-weigth: bold;
