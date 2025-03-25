@@ -35,4 +35,11 @@ form label form p {
   font-size: 18px;
   border: none;
   border-radius: 5px;
+  transition: 1s all;
+
+}
+
+.enviar:hover {
+  background: darkorange;
+  transform: scale(1.2);
 }
