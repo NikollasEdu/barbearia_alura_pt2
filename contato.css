@@ -21,3 +21,14 @@ form label form p {
   padding: 10px 25px;
   width: 50%;
 }
+
+.checkbox {
+  margin: 20px 0;
+}
+
+.enviar {
+  width: 40%;
+  padding: 15px 0;
+  background: black;
+  color: white;
+}
