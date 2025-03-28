@@ -10,7 +10,7 @@ form {
 }
 
 form label, form p {
-  display:block;
+  display: block;
   font-size: 20px;
   margin: 0 0 10px;
 }
@@ -29,7 +29,7 @@ form label, form p {
 .enviar {
   width: 40%;
   padding: 15px 0;
-  background: black;
+  background: orange;
   color: white;
   font-weight: bold;
   font-size: 18px;
