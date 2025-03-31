@@ -4,21 +4,23 @@
 	width:100%;
 }
 
-.principal{
-	background: #CCCCCC;
-	padding: 30px;
-}
-
 .titulo-principal {
-	padding-left: 20px;
-}
-
-.titulo-centralizado {
-	text-align: center
-}
-
-p {
 	text-align: center;
+	font-size: 2em;
+	margin:0 0 1em;
+	clear: left;
+}
+
+.principal p {
+	margin: 0 0 1em;
+}
+
+.principal strong {
+	font-width: bold;
+}
+
+.pricipal em {
+	font-style: italic;
 }
 
 #missao {
