@@ -17,6 +17,7 @@ body{
 
 .principal {
 	padding: 3em 0;
+	background: #ffffff;
 }
 
 .principal p {
@@ -32,7 +33,7 @@ body{
 }
 
 #missao {
-	font-size: 20px
+	font-size: 20px;
 }
 
 .utensilios {
@@ -43,7 +44,7 @@ body{
 
 .beneficios {
 	padding: 3em 0;
-	background-color: #888888
+	background-color: #888888;
 }
 
 .conteudo-beneficio {
@@ -62,7 +63,7 @@ body{
 }
 
 .itens {
-	font-style: italic
+	font-style: italic;
 }
 
 .mapa {
