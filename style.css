@@ -39,7 +39,18 @@ body{
 
 .beneficios {
 	padding: 3em 0;
-	background-color: #808080
+	background-color: #888888
+}
+
+.conteudo-beneficio {
+	width: 640px;
+	margin: 0 auto;
+}
+
+.lista-beneficios {
+	width: 40px;
+	display: inline-block;
+	vertical-align: top;
 }
 
 .imagembeneficios {
