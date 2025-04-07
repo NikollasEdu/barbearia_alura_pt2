@@ -70,6 +70,10 @@ body{
 	font-weight: bold;
 }
 
+.itens:before {
+	content:"⭐";
+}
+
 .mapa {
 	padding: 3em 0;
 	background: linear-gradient: #fefefe, #888888;
