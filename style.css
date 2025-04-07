@@ -66,6 +66,10 @@ body{
 	font-style: italic;
 }
 
+.itens:first-child {
+	font-weight: bold;
+}
+
 .mapa {
 	padding: 3em 0;
 	background: linear-gradient: #fefefe, #888888;
