@@ -107,5 +107,10 @@ h1 {
 	text-align: center;
 }
 
-nav
-	position: 
+nav {
+	position: static;
+}
+
+.lista-beneficios, .imagem-beneficios {
+	width: 100%;
+}
