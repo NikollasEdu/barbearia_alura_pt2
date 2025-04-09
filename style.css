@@ -98,4 +98,4 @@ body{
 	margin: 1em auto;
 }
 
-@media screen and
+@media screen and(max-width: 480px;)
