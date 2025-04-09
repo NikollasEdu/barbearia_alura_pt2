@@ -4,7 +4,7 @@ header {
 }
 
 .caixa{
-  position:relative;
+  position: relative;
   width: 940px;
   margin: 0 auto;
 }
@@ -51,7 +51,7 @@ nav a:hover{
 }
 
 .produtos li:hover{
-  border-color:red;
+  border-color: red;
 }
 
 .produtos li:active{
