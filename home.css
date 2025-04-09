@@ -62,7 +62,8 @@ body{
 	width: 60%;
 	opacity: 1;
 	transition: 400ms;
-	box-shadow: 10xp 10px 10px 0 #000000;
+	box-shadow: 10px 10px 10px 0 #000000;
+	
 }
 .imagem-beneficios:hover {
 	opacity: 0.3;
